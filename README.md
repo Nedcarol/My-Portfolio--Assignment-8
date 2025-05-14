@@ -1,63 +1,29 @@
-# 🌟 My Portfolio — Assignment 8
+# 💼 My Portfolio Website
 
-Welcome to my personal portfolio website!  
-This project showcases who I am, what I do, and some of the projects I've worked on during my journey as a web developer and digital marketer.
+Welcome to my personal portfolio website built using HTML, CSS, and JavaScript.
 
-## 🔍 About the Project
+🌐 **Live Site:** [neddportfolio.netlify.app](https://neddportfolio.netlify.app/)
 
-This is a clean, responsive portfolio site built with HTML, CSS, and JavaScript. It features sections like:
+## 📁 About This Project
 
-- **Home**: A welcoming introduction with a strong personal brand.
-- **About**: My story, professional background, and aspirations.
-- **Services**: What I offer as a digital marketing and web development expert.
-- **Projects**: Highlights of some key work I've done.
-- **Contact**: A simple form and links to connect with me.
+This project was created as part of my PLP Academy final assignment to showcase my skills in web development.
 
-## 💡 Features
-
-- Fully responsive design (mobile-friendly)
-- Clean and modern layout
-- Interactive elements using JavaScript
-- Easy-to-navigate structure
-- SEO-friendly structure
-
-## 🛠️ Built With
-
+### 🔧 Technologies Used
 - HTML5
 - CSS3
 - JavaScript
+- Netlify (for deployment)
 
-## 📁 Folder Structure
+## ✨ Features
+- Fully responsive layout
+- Smooth scrolling
+- Sections for About, Projects, Contact, and more
+- Clean and modern design
 
-
-
-## 🚀 Getting Started
-
-To view the portfolio on your local machine:
-
-1. Clone the repo  
-   `git clone https://github.com/Nedcarol/My-Portfolio--Assignment-8.git`
-
-2. Navigate into the folder  
-   `cd My-Portfolio--Assignment-8`
-
-3. Open `index.html` in your browser
-
-## 🙋‍♀️ Author
-
-**Neddy Sigey**  
-Digital Marketer | Web Designer | Coach  
-🔗 [LinkedIn](https://www.linkedin.com/in/neddysigey)  
-📧 Email: info@supremevirtuals.com
-
-## 📌 Acknowledgment
-
-Special thanks to:
-- [PLP Academy](https://academy.powerlearnprojectafrica.org
-- My mentors, peers, and the online learning communities that supported me.
+## 🙏 Special Thanks
+I want to thank PLP Academy-https://academy.powerlearnprojectafrica.org/ for the training, mentorship, and opportunity to grow my web development skills.
 
 ---
 
-⭐ **Feel free to fork, clone, or give feedback!**  
-Let’s grow together 🚀
+Feel free to explore the site and connect!
 
